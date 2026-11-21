@@ -3,7 +3,6 @@ import numpy as np
 from scipy.cluster.hierarchy import linkage, cut_tree
 from scipy.spatial.distance import squareform
 
-
 class HierarchicalCluster:
 
     @staticmethod    
