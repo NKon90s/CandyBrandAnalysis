@@ -103,6 +103,8 @@ A suggested project layout is:
 
 ```text
 Candy_brand_analysis/
+├── .gitignore
+├── LICENCE
 ├── README.md
 ├── notebooks/
 │   └── EDA.ipynb
